@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BigBurgerApplication</string>
+    <string name="error_occurred_burgers">Un problème est survenu lors de la récupération de la liste des burgers</string>
+    <string name="error_no_internet_connexion">Erreur réseau. Peux-tu vérifier que tu es bien connecté à internet
+    </string>
+
+    <!-- -->
+    <string name="icon_content_description">Icon menu</string>
+    <string name="price_label">%1$s&#8364;</string>
+    <string name="total_label">Votre total à payer est %1$s</string>
+
+    <string name="alert_dialog_title">Encaissement</string>
+    <string name="alert_dialog_description">Merci de payer et récupérer votre ticket!!</string>
+    <string name="ok_button">OK</string>
+    <string name="error_alert_dialog">Merci de choisir au moins un article</string>
+    <string name="worning_alert_dialog_title">Attention</string>
+</resources>
